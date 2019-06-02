@@ -1,0 +1,30 @@
+c:\users\tryan\documents\visual studio 2015\Projects\LibraryRenewer\bin\Debug\LibraryRenewer.exe.config
+c:\users\tryan\documents\visual studio 2015\Projects\LibraryRenewer\bin\Debug\LibraryRenewer.exe
+c:\users\tryan\documents\visual studio 2015\Projects\LibraryRenewer\bin\Debug\LibraryRenewer.pdb
+c:\users\tryan\documents\visual studio 2015\Projects\LibraryRenewer\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+c:\users\tryan\documents\visual studio 2015\Projects\LibraryRenewer\bin\Debug\WebDriver.dll
+c:\users\tryan\documents\visual studio 2015\Projects\LibraryRenewer\bin\Debug\WebDriver.Support.dll
+c:\users\tryan\documents\visual studio 2015\Projects\LibraryRenewer\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+c:\users\tryan\documents\visual studio 2015\Projects\LibraryRenewer\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+c:\users\tryan\documents\visual studio 2015\Projects\LibraryRenewer\bin\Debug\WebDriver.pdb
+c:\users\tryan\documents\visual studio 2015\Projects\LibraryRenewer\bin\Debug\WebDriver.xml
+c:\users\tryan\documents\visual studio 2015\Projects\LibraryRenewer\bin\Debug\WebDriver.Support.pdb
+c:\users\tryan\documents\visual studio 2015\Projects\LibraryRenewer\bin\Debug\WebDriver.Support.xml
+c:\users\tryan\documents\visual studio 2015\Projects\LibraryRenewer\obj\Debug\LibraryRenewer.csprojResolveAssemblyReference.cache
+c:\users\tryan\documents\visual studio 2015\Projects\LibraryRenewer\obj\Debug\LibraryRenewer.exe
+c:\users\tryan\documents\visual studio 2015\Projects\LibraryRenewer\obj\Debug\LibraryRenewer.pdb
+C:\LibraryRenewer\bin\Debug\LibraryRenewer.exe.config
+C:\LibraryRenewer\obj\Debug\LibraryRenewer.exe
+C:\LibraryRenewer\obj\Debug\LibraryRenewer.pdb
+C:\LibraryRenewer\bin\Debug\LibraryRenewer.exe
+C:\LibraryRenewer\bin\Debug\LibraryRenewer.pdb
+C:\LibraryRenewer\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\LibraryRenewer\bin\Debug\WebDriver.dll
+C:\LibraryRenewer\bin\Debug\WebDriver.Support.dll
+C:\LibraryRenewer\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\LibraryRenewer\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\LibraryRenewer\bin\Debug\WebDriver.xml
+C:\LibraryRenewer\bin\Debug\WebDriver.Support.xml
+C:\LibraryRenewer\obj\Debug\LibraryRenewer.csproj.CoreCompileInputs.cache
+C:\LibraryRenewer\obj\Debug\LibraryRenewer.csprojAssemblyReference.cache
+C:\LibraryRenewer\obj\Debug\LibraryRenewer.csproj.CopyComplete
